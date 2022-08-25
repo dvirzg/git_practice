@@ -16,4 +16,4 @@ with open("C:/Users/dvirz/Desktop/Speeches & Essays/Lists/unclean_list.csv", 'r'
             i = [date, title, speaker]               
             csvwriter.writerow(i)
     print("Done!")
-    # this change was done on GitHub.
+    # more changes
